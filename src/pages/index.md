@@ -21,15 +21,15 @@ offerings:
 testimonials:
   - author: Miami Realtor
     quote: >-
-      Thanks to the experts at Miami 3D Scans I was able to get a professional
+      Thanks to the experts at Miami 3D Scan I was able to get a professional
       scan of my listing at a great price.
   - author: Commercial broker
     quote: >-
       I had a hard time finding someone that was responsive and reliable.  Sean
       and his team were thoughtful, professional, and fast.
-meta_title: Miami 3D Scans - Enabling Virtual Tours
+meta_title: Miami 3D Scan - Enabling Virtual Tours
 meta_description: >-
-  Miami 3D Scans is a professional service company dedicated to providing
+  Miami 3D Scan is a professional service company dedicated to providing
   interior images for residential and commercial real estate listings. Using the
   latest hardware and technology we enable virtual touring like no other.
 ---
