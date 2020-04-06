@@ -7,7 +7,7 @@ description: >-
   deal.
 offerings:
   blurbs:
-    - image: /img/insta360-x-matterport-16-9-1280x720.jpg
+    - image: /img/cctv.png
       text: >-
         By leveraging the Insta360 camera and Matterport technology we can
         provide seamless images for you to be able to create an in-depth and
