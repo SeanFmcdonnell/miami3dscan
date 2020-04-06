@@ -1,40 +1,37 @@
 ---
 templateKey: pricing-page
 title: Pricing
+image: /img/insta360-x-matterport-16-9-1280x720.jpg
+pricing:
+  description: Based on square footage and time spent.
+  heading: How we price
+  plans:
+    - description: 'Up to 3,000 sq. ft'
+      items:
+        - Full scan
+        - Web Development support for your listing
+        - Additional files types for marketing
+      plan: Residential
+      price: '100'
+    - description: 'Up to 10,000 sq. ft'
+      items:
+        - Full scan
+        - Web Development support for your listing
+        - Additional file types for marketing
+      plan: Commercial
+      price: '200'
+    - description: Please call for a custom quote
+      items:
+        - Full scan
+        - Web Development support for your listing
+        - Additional file types for marketing
+      plan: Custom
+      price: '??'
 meta_title: Pricing | Gatsby Starter Business
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
-pricing:
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta justo justo, 
-    non semper odio cursus in. Curabitur ligula tortor, tristique non odio nec, imperdiet 
-    mattis leo. Vivamus aliquam rhoncus tortor vitae convallis. Aliquam non dui nibh. Nam 
-    a velit at enim sagittis pellentesque.
-  heading: Monthly subscriptions
-  plans:
-    - description: Nulla faucibus, leo a condimentum aliquam, libero leo vehicula arcu
-      items:
-        - Lorem ipsum dolor sit amet
-        - consectetur adipiscing elit
-        - Nunc finibus sem a sem ultrices
-      plan: Pro
-      price: '50'
-    - description: Mauris vitae dolor eu mauris malesuada cursus.
-      items:
-        - eget sagittis magna tempor
-        - Quisque pulvinar lorem molestie
-        - Proin at sagittis ex
-      plan: Enterprise
-      price: '80'
-    - description: Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus.
-      items:
-        - Pellentesque luctus neque id mauris accumsan
-        - nec imperdiet justo eleifend
-        - Sed eget ornare orci
-      plan: Custom
-      price: '??'
 ---
 
