@@ -22,7 +22,7 @@ testimonials:
   - author: Miami Realtor
     quote: >-
       Thanks to the experts at Miami 3D Scans I was able to get a professional
-      scan of my listing at a great price
+      scan of my listing at a great price.
   - author: Commercial broker
     quote: >-
       I had a hard time finding someone that was responsive and reliable.  Sean
