@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
-title: Performing 3D Scans of Real Estate Listings
-heading: Get your listing Virtual Tour Ready
+title: Enabling Virtual Tours for Real Estate Owners and Brokers
+heading: Get your Listing Virtual Tour Ready
 description: >-
   Using Matterport technology we can give your buyers the best look at your
   deal.
