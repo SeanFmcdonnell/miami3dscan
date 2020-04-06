@@ -27,7 +27,7 @@ testimonials:
     quote: >-
       I had a hard time finding someone that was responsive and reliable.  Sean
       and his team were thoughtful, professional, and fast.
-meta_title: Home | Gatsby Starter Business
+meta_title: Miami 3D Scans - Enabling Virtual Tours
 meta_description: >-
   Miami 3D Scans is a professional service company dedicated to providing
   interior images for residential and commercial real estate listings. Using the
