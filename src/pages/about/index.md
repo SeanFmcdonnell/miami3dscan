@@ -7,7 +7,7 @@ meta_description: >-
 ---
 ## Our mission to enable virtual tours for Real Estate Owners and Brokers.
 
-###Top tech - leveraging Insta360 and Matterport for our 3D imaging service.
+###Top tech - leveraging [Insta360](https://www.insta360.com) and [Matterport](https://www.matterport.com) for our 3D imaging service.
 
 Our goal at Miami 3D Scan is to enable virtual tours for Real Estate Owners and Brokers.
 * Quick turnaround
