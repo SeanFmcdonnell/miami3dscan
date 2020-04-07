@@ -27,7 +27,7 @@ pricing:
         - Additional file types for marketing
       plan: Custom
       price: '??'
-meta_title: Pricing | Miami 3D Scans
+meta_title: Pricing | Miami 3D Scan
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam

@@ -4,12 +4,12 @@ title: Enabling Virtual Tours for Real Estate Owners and Brokers
 heading: Get your Listing Virtual Tour Ready
 description: >-
   Using Matterport technology we can give your buyers the best look at your
-  deal.
+  deal. you want to jump on the zoom so i can show you 
 offerings:
   blurbs:
     - image: /img/cctv.png
       text: >-
-        By leveraging the Insta360 camera and Matterport technology we can
+        By leveraging the [Insta360 camera](https://www.insta360.com) and [Matterport](https://www.matterport.com) technology we can
         provide seamless images for you to be able to create an in-depth and
         detailed interior of your listing.
     - image: /img/time.png
