@@ -7,7 +7,7 @@ description: >-
   deal. you want to jump on the zoom so i can show you 
 offerings:
   blurbs:
-    - image: /img/cctv.png
+    - image: /img/insta360-x-matterport-16-9-1280x720.jpg
       text: >-
         By leveraging the [Insta360 camera](https://www.insta360.com) and [Matterport](https://www.matterport.com) technology we can
         provide seamless images for you to be able to create an in-depth and
