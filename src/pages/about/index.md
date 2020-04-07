@@ -12,6 +12,8 @@ meta_description: >-
 
 ![](/img/hillcrest.jpg "Take a look at what a 3D virtual tour looks like here")
 
+[Click here to see a virtual tour of this home.](https://www.firsttexashomes.com/gallery/3d-tours/)
+
 Our goal at Miami 3D Scan is to enable virtual tours for Real Estate Owners and Brokers.
 
 * Quick turnaround
