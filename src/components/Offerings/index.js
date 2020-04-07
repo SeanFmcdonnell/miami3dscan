@@ -10,6 +10,11 @@ const Offerings = ({ gridItems }) => (
             <img alt='' src={item.image} />
           </p>
           <p>{item.text}</p>
+          {/* <p> 
+            By leveraging the <a href="https://www.insta360.com">Insta360</a> camera and <a[Matterport](https://www.matterport.com) technology we can
+            provide seamless images for you to be able to create an in-depth and
+            detailed interior of your listing.
+          </p> */}
         </section>
       </div>
     ))}
