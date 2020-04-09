@@ -3,30 +3,16 @@ templateKey: pricing-page
 title: Pricing
 image: /img/insta360-x-matterport-16-9-1280x720.jpg
 pricing:
-  description: Based on square footage and time spent.
+  description: Based on square footage
   heading: How we price
   plans:
-    - description: 'Up to 3,000 sq. ft'
+    - description: Per square foot
       items:
         - Full scan
         - Web Development support for your listing
         - Additional files types for marketing
-      plan: Residential
-      price: '100'
-    - description: 'Up to 10,000 sq. ft'
-      items:
-        - Full scan
-        - Web Development support for your listing
-        - Additional file types for marketing
-      plan: Commercial
-      price: '200'
-    - description: Please call for a custom quote
-      items:
-        - Full scan
-        - Web Development support for your listing
-        - Additional file types for marketing
-      plan: Custom
-      price: '??'
+      plan: Residential or Commercial
+      price: '0.10'
 meta_title: Pricing | Miami 3D Scan
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
